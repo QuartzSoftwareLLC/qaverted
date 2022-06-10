@@ -1,0 +1,14 @@
+name: qaverted
+title: qaverted
+username:
+account: surveillance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5490123
+bundleId: 5760991
+url: https://surveillance.shinyapps.io/qaverted/
+when: 1649042347.32691
+lastSyncTime: 1649042347.32692
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scrape.R
