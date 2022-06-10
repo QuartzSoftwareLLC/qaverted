@@ -1,5 +1,5 @@
-Package: shiny.covariants
-Title: What the Package Does (One Line, Title Case)
+Package: qaverted
+Title: Calculated number of averted events based on a change in vaccine effectiveness.
 Version: 0.0.1
 Authors@R: person('Jacob', ,'Clarke', email = 'jacobclarke718@gmail.com', role = c('cre', 'aut'))
 Description: What the package does (one paragraph).
@@ -13,7 +13,7 @@ Imports:
     shiny.quartz
 Remotes: 
     github::quartzsoftwarellc/shiny.mui,
-    github::quartzsoftwarellc/shiny.quartz,
+    github::quartzsoftwarellc/shiny.quartz
 Depends: 
     R (>= 2.10)
 LazyData: true
